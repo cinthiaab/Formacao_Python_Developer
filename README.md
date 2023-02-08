@@ -6,15 +6,15 @@
 
 #### Módulos da formação:
 
-- [ ] Fundamentos de Python
+- [x] Fundamentos de Python
     - [x] Ambiente de Desenvolvimento e Primeiros Passos com Python
     - [x] Conhecendo a Linguagem de Programação Python
     - [x] Tipos de Operadores com Python
     - [x] Estruturas Condicionais e de Repetição em Python
-    - [ ] Manipulação de strings com Python
-    - [ ] Desafio de código: Desafios Básicos Formação Python Developer
-    - [ ] Desafio de projeto: Criando um Sistema Bancário com Python
-    - [ ] Materiais Complementares: Fundamentos de Python
+    - [x] Manipulação de strings com Python
+    - [x] Desafio de código: Desafios Básicos Formação Python Developer
+    - [x] Desafio de projeto: Criando um Sistema Bancário com Python
+    - [x] Materiais Complementares: Fundamentos de Python
 - [ ] Aprendendo Estruturas de Dados com Python
     - [ ] Trabalhando com Listas em Python
     - [ ] Conhecendo Tuplas em Python
@@ -53,3 +53,7 @@
 
 
 ---
+## Desafios de Projeto
+
+
+### ✅ Criando um Sistema Bancário com Python
