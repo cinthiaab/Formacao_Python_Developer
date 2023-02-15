@@ -15,15 +15,15 @@
     - [x] Desafio de código: Desafios Básicos Formação Python Developer
     - [x] Desafio de projeto: Criando um Sistema Bancário com Python
     - [x] Materiais Complementares: Fundamentos de Python
-- [ ] Aprendendo Estruturas de Dados com Python
-    - [ ] Trabalhando com Listas em Python
-    - [ ] Conhecendo Tuplas em Python
-    - [ ] Explorando Conjuntos em Python
-    - [ ] Aprendendo a Utilizar Dicionários em Python
-    - [ ] Dominando Funções Python
-    - [ ] Desafio de código: Desafios Intermediários Formação Python Developer
-    - [ ] Desafio de projeto: Otimizando o Sistema Bancário com Funções Python
-    - [ ] Materiais Complementares - Estrutura de Dados em Python
+- [x] Aprendendo Estruturas de Dados com Python
+    - [x] Trabalhando com Listas em Python
+    - [x] Conhecendo Tuplas em Python
+    - [x] Explorando Conjuntos em Python
+    - [x] Aprendendo a Utilizar Dicionários em Python
+    - [x] Dominando Funções Python
+    - [x] Desafio de código: Desafios Intermediários Formação Python Developer
+    - [x] Desafio de projeto: Otimizando o Sistema Bancário com Funções Python
+    - [x] Materiais Complementares - Estrutura de Dados em Python
 - [ ] Programação Orientada a Objetos com Python
     - [ ] Introdução à Programação Orientada a Objetos (POO) com Python
     - [ ] Aprendendo o Conceito de Herança com Python
@@ -57,3 +57,4 @@
 
 
 ### ✅ Criando um Sistema Bancário com Python
+### ✅ Otimizando o Sistema Bancário com Funções Python
